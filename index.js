@@ -208,7 +208,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `vai pela sombra irmão pq bosta no Sol seca kkkk FDP vai fazer nem falta ghost do krlh @${num.split('@')[0]}👋`
+				teks = `vai pela sombra irmão pq bosta no Sol seca kkkk FDP vai fazer nem falta ghost do krlh HEHEHHE @${num.split('@')[0]}👋`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
@@ -246,7 +246,7 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '⌛RLX AE MANO TO FAZENDO O BAGUIO AQQ🤯⌛',
+				wait: '⌛RLX AE TO PROSESANDO AQUI FDP SE DA ERRO SE TENTA DE NOVO',
 				success: '✔️Sucesso✔️',
                                 levelon: '❬ ✔ ❭ *habilitar Level*',
 				leveloff: ' ❬ X ❭  *desabilitar Level*',
@@ -259,9 +259,9 @@ async function starts() {
 				only: {
 					group: '[❗] Este comando só pode ser usado em grupos! ❌',
 					ownerG: '[❗] Este comando só pode ser usado pelo grupo proprietário! ❌',
-					ownerB: '[❗] Este comando só pode ser usado pelo Bruxinho! ❌',
+					ownerB: '[❗] Este comando só pode ser usado pelo KIÇK-ASS! ❌',
 					admin: '[❗] Este comando só pode ser usado por administradores de grupo! ❌',
-					Badmin: '[❗] Este comando só pode ser usado quando o bot se torna administrador! ❌',
+					Badmin: '[❗] Este comando só pode ser usado quando o bot se torna administrador da adm ai mano! ❌',
                                         daftarB: `── 「REGISTRE-SE」 ──\nSLV mano como!\nVocê nn está registrado no banco de dados Do kick-ass tem que se cadastrar pra ter acesso ao menu, \n\nComando : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar kickass|19`,
 				}
 			}
@@ -269,7 +269,7 @@ async function starts() {
         		const bisakah = ['Bisa','Tidak Bisa']
 		        const kapankah = ['Hari Lagi','Minggu Lagi','Bulan Lagi','Tahun Lagi']
 			const botNumber = client.user.jid
-			const ownerNumber = ["5511934713306@s.whatsapp.net"] // replace this with your number
+			const ownerNumber = ["556992482009@s.whatsapp.net"] // replace this with your number
 			const nomorOwner = [ownerNumber]
 			const isGroup = from.endsWith('@g.us')
 			const totalchat = await client.chats.all()
@@ -287,7 +287,7 @@ async function starts() {
 			const isOwner = ownerNumber.includes(sender)
                         const isUser = user.includes(sender)
                         const isLevelingOn = isGroup ? _leveling.includes(groupId) : false
-                        const NomerOwner = '5511934713306@s.whatsapp.net'
+                        const NomerOwner = '556992482009@s.whatsapp.net'
                         /******ApiKey Input******/
                         const BarBarKey = 'YOUR_APIKEY'
                         /******End of ApiKey Input******/
@@ -317,7 +317,7 @@ async function starts() {
                 addLevelingXp(sender, amountXp)
                 if (requiredXp <= getLevelingXp(sender)) {
                     addLevelingLevel(sender, 1)
-                    await reply(`*「 LEVEL UP 」*\n\n➸ *Nome*: ${sender}\n➸ *XP*: ${getLevelingXp(sender)}\n➸ *Level*: ${getLevel} -> ${getLevelingLevel(sender)}\n\nParabéns!! 🎉🎉`)
+                    await reply(`*「 LEVEL UP 」*\n\n➸ *Nome*: ${sender}\n➸ *XP*: ${getLevelingXp(sender)}\n➸ *Level*: ${getLevel} -> ${getLevelingLevel(sender)}\n\nParabéns fpd arrobado fdp heh!! 🎉🎉`)
                 }
             } catch (err) {
                 console.error(err)
