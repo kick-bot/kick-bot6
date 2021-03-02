@@ -1,25 +1,36 @@
 const help = (prefix) => {
 	return `
-「 *kick - 𝗕𝗢𝗧* 」
+「 * 𠟈KᷬICᷓK -AᷬSᷓS_BᷬOTᷓ☹︎☠︎︎✞︎♫︎ * 」
 
  ▷ *informações*
  ▷ Prefix: 「  ${prefix}  」
- ▷ Criador : kick-ass
+ ▷ Criador : 𝗝𝗔𝗣𝗔
+ ▷ 𝗡𝗨𝗠𝗘𝗥𝗢 𝗗𝗢 𝗖𝗥𝗜𝗔𝗗𝗢𝗥 𝗖𝗔𝗦𝗢 𝗧𝗘𝗡𝗛𝗔 𝗗𝗨𝗩𝗜𝗗𝗔𝗦:https://wa.me/qr/LTRPKXSUZLOGC1
+ ▷ Nome do bot: 𠟈KᷬICᷓK -AᷬSᷓS_BᷬOTᷓ☹︎☠︎︎✞︎♫︎
+ ▷ 𝗠𝗘𝗨 𝗖𝗔𝗡𝗔𝗟 https://youtube.com/channel/UCPtLWfe5t-46bvD0Iomr7LA
 ❖ ── ✦ ──『✙』── ✦ ── ❖
-▷ 𝗢𝗨𝗧𝗥𝗢𝗦 𝗠𝗘𝗡𝗨𝗦
+
+
+▷      ✔︎𝗢𝗨𝗧𝗥𝗢𝗦 𝗠𝗘𝗡𝗨𝗦✔︎
 *╔═══❖•ೋ° °ೋ•❖═══╗*
-☛ menuadmin
-☛ nsfwmenu
+ ☛ .menuadmin
+ ☛ .nsfwmenu
 *╚═══❖•ೋ° °ೋ•❖═══╝*
-✦ *𝗦𝗢𝗕𝗥𝗘*
-  ▋
-  ▋▰ ☛ ${prefix}info
+
+
+✦ *𝗦𝗢𝗕𝗥𝗘*✔︎
+ 
+
+  ▋▰ ☛ ${prefix}info (n ativo)
   ▋▰ ☛ ${prefix}blocklist
   ▋▰ ☛ ${prefix}chatlist
   ▋▰ ☛ ${prefix}ping
   ▋▰ ☛ ${prefix}bugreport
-✦ *𝗙𝗔𝗭𝗘𝗥*
-  ▋
+
+
+✦ *𝗙𝗔𝗭𝗘𝗥*✔︎
+  
+
   ▋▰ ☛ ${prefix}sticker
   ▋▰ ☛ ${prefix}stickergif
   ▋▰ ☛ ${prefix}toimg
@@ -55,53 +66,83 @@ const help = (prefix) => {
   ▋▰ ☛ ${prefix}herrypotter
   ▋▰ ☛ ${prefix}pubglogo
   ▋▰ ☛ ${prefix}quotemaker
-✦ *𝗠𝗜𝗗𝗜𝗔*
-  ▋
+
+
+✦ *𝗠𝗜𝗗𝗜𝗔*✔︎
+  
+
   ▋▰ ☛ ${prefix}trendtwit
   ▋▰ ☛ ${prefix}randomkpop
   ▋▰ ☛ ${prefix}ytsearch
-✦ *𝗘𝗗𝗨𝗖𝗔𝗖𝗔𝗢*
-  ▋
+
+
+✦ *𝗘𝗗𝗨𝗖𝗔𝗖𝗔𝗢*✔︎
+  
+
   ▋▰ ☛ ${prefix}wiki
   ▋▰ ☛ ${prefix}wikien
   ▋▰ ☛ ${prefix}nulis
   ▋▰ ☛ ${prefix}quotes
   ▋▰ ☛ ${prefix}quotes2
   ▋▰ ☛ ${prefix}artinama
-✦ *𝗞𝗘𝗥𝗔𝗡𝗚 𝗔𝗝𝗔𝗜𝗕*
-  ▋
+
+
+✦ *𝗞𝗘𝗥𝗔𝗡𝗚 𝗔𝗝𝗔𝗜𝗕*✔︎
+  
+
   ▋▰ ☛ ${prefix}apakah
   ▋▰ ☛ ${prefix}kapankah
   ▋▰ ☛ ${prefix}rate
   ▋▰ ☛ ${prefix}bisakah
-✦ *𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥*
-  ▋▰
+
+
+✦ *𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥*✔︎
+  
+
   ▋▰ ☛ ${prefix}images
   ▋▰ ☛ ${prefix}ytmp3
   ▋▰ ☛ ${prefix}ytmp4
   ▋▰ ☛ ${prefix}tiktok
   ▋▰ ☛ ${prefix}joox
-✦ *𝗠𝗘𝗠𝗘*
-  ▋
-  ▋▰ ☛ ${prefix}meme
-  ▋▰ ☛ ${prefix}memeindo
-✦ *𝗦𝗢𝗠*
-  ▋
-  ▋▰ ☛ ${prefix}play
-  ▋▰ ☛ ${prefix}tts
-✦ *𝗠𝗨𝗦𝗜𝗖𝗔*
-  ▋
+
+
+✦ *𝗠𝗘𝗠𝗘*✔︎
+ 
+
+  ▋▰ ☛ ${prefix}meme (ta em engles)
+  ▋▰ ☛ ${prefix}memeindo (ta em engles)
+
+
+✦ *𝗦𝗢𝗠*✔︎
+  
+
+  ▋▰ ☛ ${prefix}play (letra da musica)
+  ▋▰ ☛ ${prefix}tts 
+
+
+✦ *𝗠𝗨𝗦𝗜𝗖𝗔*✔︎
+  
+
   ▋▰ ☛ ${prefix}lirik
   ▋▰ ☛ ${prefix}chord
-✦ *𝗜𝗦𝗟𝗔𝗠𝗜𝗦𝗠𝗢*
-  ▋
+
+
+✦ *𝗜𝗦𝗟𝗔𝗠𝗜𝗦𝗠𝗢*✔︎
+  
+
   ▋▰ ☛ ${prefix}quran
-✦ *𝗦𝗧𝗔𝗟𝗞*
-  ▋ 
+
+
+✦ *𝗦𝗧𝗔𝗟𝗞*✔︎
+  
+
   ▋▰ ☛ ${prefix}tiktokstalk
   ▋▰ ☛ ${prefix}igstalk
-✦ *𝗪𝗜𝗕𝗨*
-  ▋
+
+
+✦ *𝗪𝗜𝗕𝗨*✔︎
+  
+
   ▋▰ ☛ ${prefix}neonime
   ▋▰ ☛ ${prefix}pokemon
   ▋▰ ☛ ${prefix}loli
@@ -111,8 +152,11 @@ const help = (prefix) => {
   ▋▰ ☛ ${prefix}husbu2
   ▋▰ ☛ ${prefix}wait
   ▋▰ ☛ ${prefix}nekonime
-✦ *𝗗𝗜𝗩𝗘𝗥𝗦𝗔𝗢*
-  ▋
+
+
+✦ *𝗗𝗜𝗩𝗘𝗥𝗦𝗔𝗢*✔︎
+  
+
   ▋▰ ☛ ${prefix}alay
   ▋▰ ☛ ${prefix}gantengcek
   ▋▰ ☛ ${prefix}watak
@@ -122,8 +166,11 @@ const help = (prefix) => {
   ▋▰ ☛ ${prefix}trust
   ▋▰ ☛ ${prefix}dare
   ▋▰ ☛ ${prefix}simi
-✦ *𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗖𝗔𝗢*
-  ▋
+
+
+✦ *𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗖𝗔𝗢*✔︎
+  
+
   ▋▰ ☛ ${prefix}bahasa
   ▋▰ ☛ ${prefix}kodenegara
   ▋▰ ☛ ${prefix}kbbi
@@ -132,16 +179,22 @@ const help = (prefix) => {
   ▋▰ ☛ ${prefix}infogempa
   ▋▰ ☛ ${prefix}jadwaltvnow
   ▋▰ ☛ ${prefix}covid
-✦ *𝗗𝗢𝗡𝗢*
-  ▋
+
+
+✦ *𝗗𝗢𝗡𝗢*✔︎
+  
+
   ▋▰ ☛ ${prefix}setprefix
   ▋▰ ☛ ${prefix}block
   ▋▰ ☛ ${prefix}bc
   ▋▰ ☛ ${prefix}bcgc
   ▋▰ ☛ ${prefix}clone
   ▋▰ ☛ ${prefix}clearall
-✦ *𝗢𝗨𝗧𝗥𝗢𝗦*
-  ▋
+
+
+✦ *𝗢𝗨𝗧𝗥𝗢𝗦*✔︎
+  
+
   ▋▰ ☛ ${prefix}send
   ▋▰ ☛ ${prefix}wame
   ▋▰ ☛ ${prefix}virtex
@@ -153,6 +206,18 @@ const help = (prefix) => {
   ▋▰ ☛ ${prefix}fml2
 ❖ ── ✦ ──『✙』── ✦ ── ❖
 `
-}
+} 
 
 exports.help = help
+
+𝗘𝘀𝘁𝗼𝘂 𝗼𝗻 𝗰𝗮𝘀𝗼 𝗽𝗿𝗲𝗰𝗶𝘀𝗲 𝗱𝗲 𝗮𝗷𝘂𝗱𝗮 𝗹𝗶𝗻𝗸 𝗱𝗼 𝗺𝗲𝘂 𝘇𝗮𝗽 𝗮 𝗯𝗮𝗶𝘅𝗼.
+
+✔︎ https://wa.me/qr/LTRPKXSUZLOGC1 ✔︎
+
+𝗰𝗵𝗮𝗺𝗲𝗺 𝗺𝗲𝘂 𝗺𝗮𝗻𝗼 𝗽𝗿𝗮 𝗻𝗼𝘃𝗮𝘀 𝗮𝗺𝗶𝘇𝗮𝗱𝗲𝘀...
+
+https://wa.me/qr/AEYGFWYGFJQFK1
+   
+      𝗤𝘂𝗶𝗯𝗮𝘁𝗼𝗿𝗲𝘀 𝘃𝗮𝗼 𝘀𝗲 𝗳𝗼𝗱𝗲𝗲𝗿𝗸𝗮𝗸𝗮𝗸𝗮𝗸𝗮𝗸𝗮𝗸𝗮𝗸𝗮𝗮
+
+
