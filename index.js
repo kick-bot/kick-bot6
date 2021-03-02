@@ -80,7 +80,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:KICK-ASS\n' // full name
             + 'ORG:Owner Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=+5511934713306:+55 (11) 93471-3306\n' // ID do WhatsApp + número de telefone
+            + 'TEL;type=CELL;type=VOICE;waid=+556992482009:+55 (69) 9248-2009\n' // ID do WhatsApp + número de telefone
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
@@ -198,7 +198,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `𝐘𝐀𝐄 𝐌𝐚𝐧𝐨 @${num.split('@')[0]}\nBem vindo (𝐀) ao grupo *${mdata.subject}* leia as regras pra nn ser removido Karay`
+				teks = `𝐘𝐀𝐄 𝐌𝐚𝐧𝐨 @${num.split('@')[0]}\nBem vindo (𝐀) ao grupo *${mdata.subject}* não seje um normie pra não tomar ban😌🤳`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
@@ -208,7 +208,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `vai pela sombra irmão pq bosta no Sol seca kkkk FDP vai fazer nem falta ghost do krlh HEHEHHE @${num.split('@')[0]}👋`
+				teks = `vai,saiaa pela sombra irmão pq bosta no Sol secaKKKKKKKK PNC vai fazer nem falta ghost do krlh😂PERDI @${num.split('@')[0]}Vasaa normie😂`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
@@ -246,7 +246,7 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '⌛RLX AE TO PROSESANDO AQUI FDP SE DA ERRO SE TENTA DE NOVO',
+				wait: '⌛FICA FRIO AI,ESTOU PROCESSANDO SE DER ERRO MANDE OUTRA VEZ...',
 				success: '✔️Sucesso✔️',
                                 levelon: '❬ ✔ ❭ *habilitar Level*',
 				leveloff: ' ❬ X ❭  *desabilitar Level*',
@@ -259,7 +259,7 @@ async function starts() {
 				only: {
 					group: '[❗] Este comando só pode ser usado em grupos! ❌',
 					ownerG: '[❗] Este comando só pode ser usado pelo grupo proprietário! ❌',
-					ownerB: '[❗] Este comando só pode ser usado pelo KIÇK-ASS! ❌',
+					ownerB: '[❗] Este comando só pode ser usado pelo Japa! ❌',
 					admin: '[❗] Este comando só pode ser usado por administradores de grupo! ❌',
 					Badmin: '[❗] Este comando só pode ser usado quando o bot se torna administrador da adm ai mano! ❌',
                                         daftarB: `── 「REGISTRE-SE」 ──\nSLV mano como!\nVocê nn está registrado no banco de dados Do kick-ass tem que se cadastrar pra ter acesso ao menu, \n\nComando : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar kickass|19`,
@@ -269,7 +269,7 @@ async function starts() {
         		const bisakah = ['Bisa','Tidak Bisa']
 		        const kapankah = ['Hari Lagi','Minggu Lagi','Bulan Lagi','Tahun Lagi']
 			const botNumber = client.user.jid
-			const ownerNumber = ["556992482009@s.whatsapp.net"] // replace this with your number
+			const ownerNumber = ["556992419378@s.whatsapp.net"] // replace this with your number
 			const nomorOwner = [ownerNumber]
 			const isGroup = from.endsWith('@g.us')
 			const totalchat = await client.chats.all()
@@ -287,7 +287,7 @@ async function starts() {
 			const isOwner = ownerNumber.includes(sender)
                         const isUser = user.includes(sender)
                         const isLevelingOn = isGroup ? _leveling.includes(groupId) : false
-                        const NomerOwner = '556992482009@s.whatsapp.net'
+                        const NomerOwner = '556992419378@s.whatsapp.net'
                         /******ApiKey Input******/
                         const BarBarKey = 'YOUR_APIKEY'
                         /******End of ApiKey Input******/
@@ -497,7 +497,7 @@ case 'timer':
 					var gh = body.slice(11)
 					var gbl7 = gh.split("|")[0];
 					var gbl8 = gh.split("|")[1];
-					if (args.length < 1) return reply(`Enviar pedidos ${prefix}snowwrite texto1|texto2, exemplo ${prefix}snowwrite bruxinho|BOT`)
+					if (args.length < 1) return reply(`Enviar pedidos ${prefix}snowwrite texto1|texto2, exemplo ${prefix}snowwrite japa|BOT`)
                                         if (!isUser) return reply(mess.only.daftarB)
 					reply(mess.wait)
 					anu = await fetchJson(`https://zeksapi.herokuapp.com/api/snowwrite?text1=${gbl7}&text2=${gbl8}&apikey=apivinz`, {method: 'get'})
@@ -506,7 +506,7 @@ case 'timer':
 					break
 				case 'marvellogo':
 					var gh = body.slice(12)
-					if (args.length < 1) return reply(`Enviar pedidos ${prefix}marvellogo texto, por exemplo ${prefix}marvellogo bruxinho BOT`)
+					if (args.length < 1) return reply(`Enviar pedidos ${prefix}marvellogo texto, por exemplo ${prefix}marvellogo japa BOT`)
                                         if (!isUser) return reply(mess.only.daftarB)
 					reply(mess.wait)
 					anu = await fetchJson(`https://tobz-api.herokuapp.com/api/textpro?theme=snow&text=${gh}&apikey=BotWeA`, {method: 'get'})
@@ -583,7 +583,7 @@ case 'timer':
 					if(!isUrl(args[0]) && !args[0].includes('youtu')) return reply(mess.error.Iv)
 					anu = await fetchJson(`https://st4rz.herokuapp.com/api/ytv2?url=${args[0]}`, {method: 'get'})
 					if (anu.error) return reply(anu.error)
-					teks = `*❏ Título* : ${anu.title}\n\n*O VIDEO ESTA SENDO ENVIADO FDP CALMA AE*`
+					teks = `*❏ Título* : ${anu.title}\n\n*O VIDEO ESTA SENDO ENVIADO CALMA AI*`
 					thumb = await getBuffer(anu.thumb)
 					client.sendMessage(from, thumb, image, {quoted: mek, caption: teks})
 					buffer = await getBuffer(anu.result)
@@ -808,7 +808,7 @@ case 'timer':
 						teks += `╠➥ @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					mentions('╔══✪〘 MARCANDO TODO MUNDO QUEM NN GOSTA QUE SE FODA🤬💪 〙✪══\n╠➥'+teks+'╚═〘 ARR157 BOT 〙', members_id, true)
+					mentions('╔══✪〘 MARCANDO A MACACADA🐒 〙✪══\n╠➥'+teks+'╚═〘 ARR157 BOT 〙', members_id, true)
 					break
                 case 'tagall2':
 				client.updatePresence(from, Presence.composing) 
@@ -821,7 +821,7 @@ case 'timer':
 						teks += `╠➥ ${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					client.sendMessage(from, '╔══✪〘 MARCANDO TODO MUNDO QUEM NN GOSTA QUE SE FODA🤬💪 〙✪══\n╠➥'+teks+'╚═〘 ARR157 BOT 〙', text, {quoted: mek})
+                                client.sendMessage(from, '╔══✪〘 MARCANDO A MACACADA🐒 〙✪══\n╠➥'+teks+'╚═〘 ARR157 BOT 〙', text, {quoted: mek})
 					break
                 case 'tagall3':
 				client.updatePresence(from, Presence.composing) 
@@ -834,7 +834,7 @@ case 'timer':
 						teks += `╠➥ https://wa.me/${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					client.sendMessage(from, '╔══✪〘 MARCANDO TODO MUNDO QUEM NN GOSTA QUE SE FODA🤬💪 〙✪══\n╠➥'+teks+'╚═〘 ARR157 BOT 〙', text, {detectLinks: false, quoted: mek})
+					client.sendMessage(from, '╔══✪〘 MARCANDO A MACACADA🐒 〙✪══\n╠➥'+teks+'╚═〘 ARR157 BOT 〙', text, {detectLinks: false, quoted: mek})
 					break
                         case 'tagall4':
 				client.updatePresence(from, Presence.composing) 
@@ -847,7 +847,7 @@ case 'timer':
 						teks += `╠➥ ${mem.jid.split('@')[0]}@c.us\n`
 						members_id.push(mem.jid)
 					}
-					client.sendMessage(from, '╔══✪〘 MARCANDO TODO MUNDO QUEM NN GOSTA QUE SE FODA🤬💪 〙✪══\n╠➥'+teks+'╚═〘 ARR157 BOT 〙', text, {quoted: mek})
+					client.sendMessage(from, '╔══✪〘 MARCANDO A MACACADA🐒 〙✪══\n╠➥'+teks+'╚═〘 ARR157 BOT 〙', text, {quoted: mek})
 					break
                 case 'tagall5':
 				client.updatePresence(from, Presence.composing) 
@@ -860,7 +860,7 @@ case 'timer':
 						teks += `╠➥ ${mem.jid.split('@')[0]}@s.whatsapp.net\n`
 						members_id.push(mem.jid)
 					}
-					reply('╔══✪〘 MARCANDO TODO MUNDO QUEM NN GOSTA QUE SE FODA🤬💪 〙✪══\n╠➥'+teks+'╚═〘 ARR157 BOT 〙')
+					reply('╔══✪〘 MARCANDO A MACACADA🐒 〙✪══\n╠➥'+teks+'╚═〘 ARR157 BOT 〙')
 					break
 				case 'send':
 					var pc = body.slice(6)
@@ -880,7 +880,7 @@ case 'timer':
 					enmedia = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
 					media = await client.downloadAndSaveMediaMessage(enmedia)
 					await client.updateProfilePicture(botNumber, media)
-					reply('Obrigado pelo novo perfil seu fdp😗')
+					reply('Obrigado pelo novo perfil😗')
 					break
 				case 'bc':
 					client.updatePresence(from, Presence.composing) 
