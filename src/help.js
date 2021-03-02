@@ -210,14 +210,4 @@ const help = (prefix) => {
 
 exports.help = help
 
-𝗘𝘀𝘁𝗼𝘂 𝗼𝗻 𝗰𝗮𝘀𝗼 𝗽𝗿𝗲𝗰𝗶𝘀𝗲 𝗱𝗲 𝗮𝗷𝘂𝗱𝗮 𝗹𝗶𝗻𝗸 𝗱𝗼 𝗺𝗲𝘂 𝘇𝗮𝗽 𝗮 𝗯𝗮𝗶𝘅𝗼.
-
-✔︎ https://wa.me/qr/LTRPKXSUZLOGC1 ✔︎
-
-𝗰𝗵𝗮𝗺𝗲𝗺 𝗺𝗲𝘂 𝗺𝗮𝗻𝗼 𝗽𝗿𝗮 𝗻𝗼𝘃𝗮𝘀 𝗮𝗺𝗶𝘇𝗮𝗱𝗲𝘀...
-
-https://wa.me/qr/AEYGFWYGFJQFK1
-   
-      𝗤𝘂𝗶𝗯𝗮𝘁𝗼𝗿𝗲𝘀 𝘃𝗮𝗼 𝘀𝗲 𝗳𝗼𝗱𝗲𝗲𝗿𝗸𝗮𝗸𝗮𝗸𝗮𝗸𝗮𝗸𝗮𝗸𝗮𝗸𝗮𝗮
-
 
