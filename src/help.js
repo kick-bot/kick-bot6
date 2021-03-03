@@ -18,26 +18,44 @@ const help = (prefix) => {
 *╚═══❖•ೋ° °ೋ•❖═══╝*
 
 
-✦ *𝗦𝗢𝗕𝗥𝗘*✔︎
- 
-
-  ▋▰ ☛ ${prefix}info (n ativo)
-  ▋▰ ☛ ${prefix}blocklist
-  ▋▰ ☛ ${prefix}chatlist
-  ▋▰ ☛ ${prefix}ping
-  ▋▰ ☛ ${prefix}bugreport
-
-
 ✦ *𝗙𝗔𝗭𝗘𝗥*✔︎
-  
-
+  ▋
   ▋▰ ☛ ${prefix}sticker
   ▋▰ ☛ ${prefix}stickergif
   ▋▰ ☛ ${prefix}toimg
   ▋▰ ☛ ${prefix}tomp3
+  ▋▰ ☛ ${prefix}bpink
+  ▋▰ ☛ ${prefix}marvellogo
+  ▋▰ ☛ ${prefix}snowwrite
+  ▋▰ ☛ ${prefix}3dtext
+  ▋▰ ☛ ${prefix}ninjalogo
+  ▋▰ ☛ ${prefix}water
+  ▋▰ ☛ ${prefix}firetext
+  ▋▰ ☛ ${prefix}logowolf
+  ▋▰ ☛ ${prefix}logowolf2
+  ▋▰ ☛ ${prefix}phlogo
+  ▋▰ ☛ ${prefix}glitch
+  ▋▰ ☛ ${prefix}neonlogo
+  ▋▰ ☛ ${prefix}neonlogo2
+  ▋▰ ☛ ${prefix}lionlogo
+  ▋▰ ☛ ${prefix}jokerlogo
+  ▋▰ ☛ ${prefix}shadow
+  ▋▰ ☛ ${prefix}burnpaper
+  ▋▰ ☛ ${prefix}coffee
+  ▋▰ ☛ ${prefix}lovepaper
+  ▋▰ ☛ ${prefix}woodblock
+  ▋▰ ☛ ${prefix}qowheart
+  ▋▰ ☛ ${prefix}mutgrass
+  ▋▰ ☛ ${prefix}undergocean
+  ▋▰ ☛ ${prefix}woodenboards
+  ▋▰ ☛ ${prefix}wolfmetal
+  ▋▰ ☛ ${prefix}metalictglow
+  ▋▰ ☛ ${prefix}8bit
   ▋▰ ☛ ${prefix}ttp
+  ▋▰ ☛ ${prefix}herrypotter
+  ▋▰ ☛ ${prefix}pubglogo
+  ▋▰ ☛ ${prefix}quotemaker
   
-
 
 ✦ *𝗠𝗜𝗗𝗜𝗔*✔︎
   
