@@ -24,56 +24,56 @@ const help = (prefix) => {
   ▋▰ ☛ ${prefix}stickergif
   ▋▰ ☛ ${prefix}toimg
   ▋▰ ☛ ${prefix}tomp3
-  ▋▰ ☛ ${prefix}bpink
-  ▋▰ ☛ ${prefix}marvellogo
-  ▋▰ ☛ ${prefix}snowwrite
-  ▋▰ ☛ ${prefix}3dtext
-  ▋▰ ☛ ${prefix}ninjalogo
-  ▋▰ ☛ ${prefix}water
-  ▋▰ ☛ ${prefix}firetext
-  ▋▰ ☛ ${prefix}logowolf
-  ▋▰ ☛ ${prefix}logowolf2
-  ▋▰ ☛ ${prefix}phlogo
-  ▋▰ ☛ ${prefix}glitch
-  ▋▰ ☛ ${prefix}neonlogo
-  ▋▰ ☛ ${prefix}neonlogo2
-  ▋▰ ☛ ${prefix}lionlogo
-  ▋▰ ☛ ${prefix}jokerlogo
-  ▋▰ ☛ ${prefix}shadow
-  ▋▰ ☛ ${prefix}burnpaper
-  ▋▰ ☛ ${prefix}coffee
-  ▋▰ ☛ ${prefix}lovepaper
-  ▋▰ ☛ ${prefix}woodblock
-  ▋▰ ☛ ${prefix}qowheart
-  ▋▰ ☛ ${prefix}mutgrass
-  ▋▰ ☛ ${prefix}undergocean
-  ▋▰ ☛ ${prefix}woodenboards
-  ▋▰ ☛ ${prefix}wolfmetal
-  ▋▰ ☛ ${prefix}metalictglow
-  ▋▰ ☛ ${prefix}8bit
-  ▋▰ ☛ ${prefix}ttp
-  ▋▰ ☛ ${prefix}herrypotter
-  ▋▰ ☛ ${prefix}pubglogo
-  ▋▰ ☛ ${prefix}quotemaker
+  ▋▰ ☛ ${prefix}bpink off
+  ▋▰ ☛ ${prefix}marvellogo off
+  ▋▰ ☛ ${prefix}snowwrite off
+  ▋▰ ☛ ${prefix}3dtext off
+  ▋▰ ☛ ${prefix}ninjalogo off
+  ▋▰ ☛ ${prefix}water off
+  ▋▰ ☛ ${prefix}firetext off
+  ▋▰ ☛ ${prefix}logowolf off
+  ▋▰ ☛ ${prefix}logowolf2 off
+  ▋▰ ☛ ${prefix}phlogo off
+  ▋▰ ☛ ${prefix}glitch off
+  ▋▰ ☛ ${prefix}neonlogo off
+  ▋▰ ☛ ${prefix}neonlogo2 off
+  ▋▰ ☛ ${prefix}lionlogo off
+  ▋▰ ☛ ${prefix}jokerlogo off
+  ▋▰ ☛ ${prefix}shadow off
+  ▋▰ ☛ ${prefix}burnpaper off
+  ▋▰ ☛ ${prefix}coffee off
+  ▋▰ ☛ ${prefix}lovepaper ooff
+  ▋▰ ☛ ${prefix}woodblock off
+  ▋▰ ☛ ${prefix}qowheart off
+  ▋▰ ☛ ${prefix}mutgrass off
+  ▋▰ ☛ ${prefix}undergocean off
+  ▋▰ ☛ ${prefix}woodenboards off
+  ▋▰ ☛ ${prefix}wolfmetal off
+  ▋▰ ☛ ${prefix}metalictglow off
+  ▋▰ ☛ ${prefix}8bit off
+  ▋▰ ☛ ${prefix}ttp off
+  ▋▰ ☛ ${prefix}herrypotter off
+  ▋▰ ☛ ${prefix}pubglogo off
+  ▋▰ ☛ ${prefix}quotemaker off
   
 
 ✦ *𝗠𝗜𝗗𝗜𝗔*✔︎
   
 
-  ▋▰ ☛ ${prefix}trendtwit
+  ▋▰ ☛ ${prefix}trendtwit off
   ▋▰ ☛ ${prefix}randomkpop
-  ▋▰ ☛ ${prefix}ytsearch
+  ▋▰ ☛ ${prefix}ytsearch off
 
 
 ✦ *𝗘𝗗𝗨𝗖𝗔𝗖𝗔𝗢*✔︎
   
 
-  ▋▰ ☛ ${prefix}wiki
-  ▋▰ ☛ ${prefix}wikien
-  ▋▰ ☛ ${prefix}nulis
-  ▋▰ ☛ ${prefix}quotes
-  ▋▰ ☛ ${prefix}quotes2
-  ▋▰ ☛ ${prefix}artinama
+  ▋▰ ☛ ${prefix}wiki off
+  ▋▰ ☛ ${prefix}wikien off
+  ▋▰ ☛ ${prefix}nulis off
+  ▋▰ ☛ ${prefix}quotes off
+  ▋▰ ☛ ${prefix}quotes2 off
+  ▋▰ ☛ ${prefix}artinama off
 
 
 ✦ *𝗞𝗘𝗥𝗔𝗡𝗚 𝗔𝗝𝗔𝗜𝗕*✔︎
@@ -112,14 +112,14 @@ const help = (prefix) => {
 ✦ *𝗠𝗨𝗦𝗜𝗖𝗔*✔︎
   
 
-  ▋▰ ☛ ${prefix}lirik
-  ▋▰ ☛ ${prefix}chord
+  ▋▰ ☛ ${prefix}lirik off
+  ▋▰ ☛ ${prefix}chord off
 
 
 ✦ *𝗜𝗦𝗟𝗔𝗠𝗜𝗦𝗠𝗢*✔︎
   
 
-  ▋▰ ☛ ${prefix}quran
+  ▋▰ ☛ ${prefix}quran off
 
 
 ✦ *𝗦𝗧𝗔𝗟𝗞*✔︎
@@ -146,28 +146,27 @@ const help = (prefix) => {
 ✦ *𝗗𝗜𝗩𝗘𝗥𝗦𝗔𝗢*✔︎
   
 
-  ▋▰ ☛ ${prefix}alay
-  ▋▰ ☛ ${prefix}gantengcek
-  ▋▰ ☛ ${prefix}watak
-  ▋▰ ☛ ${prefix}hobby
-  ▋▰ ☛ ${prefix}game
-  ▋▰ ☛ ${prefix}bucin
-  ▋▰ ☛ ${prefix}trust
-  ▋▰ ☛ ${prefix}dare
-  ▋▰ ☛ ${prefix}simi
-
+  ▋▰ ☛ ${prefix}alay off
+  ▋▰ ☛ ${prefix}gantengcek off
+  ▋▰ ☛ ${prefix}watak off
+  ▋▰ ☛ ${prefix}hobby off
+  ▋▰ ☛ ${prefix}game off
+  ▋▰ ☛ ${prefix}bucin off
+  ▋▰ ☛ ${prefix}trust off
+  ▋▰ ☛ ${prefix}dare off
+  ▋▰ ☛ ${prefix}simi off
 
 ✦ *𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗖𝗔𝗢*✔︎
   
 
   ▋▰ ☛ ${prefix}bahasa
-  ▋▰ ☛ ${prefix}kodenegara
-  ▋▰ ☛ ${prefix}kbbi
-  ▋▰ ☛ ${prefix}fakta
-  ▋▰ ☛ ${prefix}infocuaca
-  ▋▰ ☛ ${prefix}infogempa
-  ▋▰ ☛ ${prefix}jadwaltvnow
-  ▋▰ ☛ ${prefix}covid
+  ▋▰ ☛ ${prefix}kodenegara off
+  ▋▰ ☛ ${prefix}kbbi off
+  ▋▰ ☛ ${prefix}fakta off
+  ▋▰ ☛ ${prefix}infocuaca off
+  ▋▰ ☛ ${prefix}infogempa off
+  ▋▰ ☛ ${prefix}jadwaltvnow off
+  ▋▰ ☛ ${prefix}covid off
 
 
 ✦ *𝗗𝗢𝗡𝗢*✔︎
@@ -184,15 +183,15 @@ const help = (prefix) => {
 ✦ *𝗢𝗨𝗧𝗥𝗢𝗦*✔︎
   
 
-  ▋▰ ☛ ${prefix}send
+  ▋▰ ☛ ${prefix}send off
   ▋▰ ☛ ${prefix}wame
   ▋▰ ☛ ${prefix}virtex
-  ▋▰ ☛ ${prefix}exe
-  ▋▰ ☛ ${prefix}qrcode
+  ▋▰ ☛ ${prefix}exe off
+  ▋▰ ☛ ${prefix}qrcode off
   ▋▰ ☛ ${prefix}afk
-  ▋▰ ☛ ${prefix}timer
-  ▋▰ ☛ ${prefix}fml
-  ▋▰ ☛ ${prefix}fml2
+  ▋▰ ☛ ${prefix}timer off
+  ▋▰ ☛ ${prefix}fml off
+  ▋▰ ☛ ${prefix}fml2 off
 ❖ ── ✦ ──『✙』── ✦ ── ❖
 `
 } 
